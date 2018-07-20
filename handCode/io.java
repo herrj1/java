@@ -9,10 +9,8 @@ class io{
 		numList = numbers; 
 	}
 	
-	public void readDocument(){
-		
+	public void readDocument(){	
 	}*/
-	
 	public double max(LinkedList<Integer> summary){
 		double total = 0;
 		if(summary.size() == 0){
