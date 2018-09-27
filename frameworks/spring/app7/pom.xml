@@ -49,6 +49,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 
 
 <!-- (you don't need this if you are using a .RELEASE version)-->
+	<!-- (you don't need this if you are using a .RELEASE version)-->
 <repositories>
 	<repository>
 	<id>
