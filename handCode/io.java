@@ -5,12 +5,12 @@ import java.io.StreamTokenizer;
 
 class io{
 	LinkedList<Integer> numList;
-	/**public io(LinkedList<Integer> numbers){
+	/***/public io(LinkedList<Integer> numbers){
 		numList = numbers; 
 	}
 	
 	public void readDocument(){	
-	}*/
+	}
 	public double max(LinkedList<Integer> summary){
 		double total = 0;
 		if(summary.size() == 0){
