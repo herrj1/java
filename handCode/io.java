@@ -5,7 +5,7 @@ import java.io.StreamTokenizer;
 
 class io{
 	LinkedList<Integer> numList;
-	/***/public io(LinkedList<Integer> numbers){
+	/** first */public io(LinkedList<Integer> numbers){
 		numList = numbers; 
 	}
 	
