@@ -3,10 +3,10 @@ class dictionaryinjava{
 public void main (String [] args){
     Map<String, Label> map = new HashMap<String, Label>();
     for ( String key : map.keySet() ) {
-       //for single key only
+       //for singles key only
     }
     for ( Label value : map.values() ) {
-       //for single value
+       //for singles value
     }
     for ( Map.Entry<String, Label> entry : map.entrySet() ) {
         //for keys and values
