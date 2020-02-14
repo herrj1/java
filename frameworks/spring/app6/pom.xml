@@ -4,7 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.journaldev</groupId>
 	<artifactId>App6</artifactId>
-	<name>App6</name>
+	<name>
+		App6
+	</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
