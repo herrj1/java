@@ -6,8 +6,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 <groupId>com.herrj.app7</groupId>
 <artifactId>app7</artifactId>
 <version>0.0.1-SNAPSHOT</version>
-<parent><groupId>
-		org.springframework.boot
+<parent><groupId>org.springframework.boot
 	</groupId>
 	<artifactId>
 		spring-boot-starter-parent
