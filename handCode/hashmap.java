@@ -15,8 +15,7 @@ class Key{
 }
 
 public class hashmap
-{
-	public static void main(String[] args){
+{public static void main(String[] args){
 		HashMap map = new HashMap();
 		map.put(new Key("John"), 20);
 		map.put(new Key("Mark"), 30);
