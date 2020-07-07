@@ -3,7 +3,7 @@ class dictionaryinjava{
 public void main (String [] args){
     Map<String, Label> map = new HashMap<String, Label>();
     for ( String key : map.keySet() ) {
-       //for singles keys onlya
+       //for singles keys only
     }
     for ( Label value : map.values() ) {
        //for singles value
