@@ -11,6 +11,7 @@ class io{
 	}
 	
 	public void readDocument(){	
+		//TODO
 	}
 	public double max(LinkedList<Integer> summary){
 		double total = 0;
