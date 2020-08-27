@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.journaldevs</groupId>
 	<artifactId>App6</artifactId>
-	<name>App6</name><packaging>war</packaging>
+	<name>App6s</name><packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
 		<java-version>1.6</java-version>
