@@ -11,7 +11,7 @@ class Key{
 		return key.equals(((Key)o).key);
 	}
 }
-
+//y
 public class hashmap
 {public static void main(String[] args){
 		HashMap map = new HashMap();
