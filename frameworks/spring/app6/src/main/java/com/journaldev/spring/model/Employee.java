@@ -2,9 +2,7 @@ package com.journaldev.spring.model;
 
 import java.io.Serializable;
 import java.util.Date;
-
 import javax.xml.bind.annotation.XmlRootElement;
-
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 import com.fasterxml.jackson.databind.ser.std.DateSerializer;
 
