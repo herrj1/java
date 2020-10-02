@@ -1,6 +1,9 @@
 import java.util.HashMap;
+
 class Key{
+
 	String key;
+	
 	Key(String k){
 		this.key = k;
 	}public int hashCode(){
@@ -11,7 +14,7 @@ class Key{
 		return key.equals(((Key)o).key);
 	}
 }
-//y
+//
 public class hashmap
 {public static void main(String[] args){
 		HashMap map = new HashMap();
