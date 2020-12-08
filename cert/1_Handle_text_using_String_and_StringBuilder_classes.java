@@ -5,7 +5,7 @@ import java.util.*;
 public 1_Handle_text_using_String_and_StringBuilder_classes{
 	public static main void(String [] args){
 		byte b = Byte.parseByte("16");
-		int n = Integer.parseInt("42");
+		int n = Integer.parseInt("43");
 		boolean b = new Boolean("true").booleanValue();
 		
 		byte b1 = new Scanner("16").nextByte();
