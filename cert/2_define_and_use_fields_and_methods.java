@@ -1,7 +1,7 @@
 import java.io.*;
 
 class subject{
-  String name = "";
+  String name = "hello";
 
   public void person(string name){
     this.name = name;
