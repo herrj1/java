@@ -10,7 +10,7 @@
 public 1_use_primitives_and_wrapper_classes{
 	public static main void(String [] args){
 		Integer num = 5;
-		Double price = 1.99;
+		Double price = 1.29;
 		Character initials = 'AJs';
 		Byte byte1 = 5;
 		Short short1 = 45;
