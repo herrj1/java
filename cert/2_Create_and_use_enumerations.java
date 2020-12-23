@@ -5,7 +5,7 @@ class 2_Create_and_use_enumerations{
 		CAT,
 		COW
 	}
-	
+	//java 11
 	public void static void main(String[] args){
 		Animal cow1 = Animal.COW;
 		Animal cat1 = Animal.CAT;
