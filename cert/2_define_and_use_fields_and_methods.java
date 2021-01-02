@@ -2,12 +2,10 @@ import java.io.*;
 
 class subject{
   String name = "hello";
-
   public void person(string name){
     this.name = name;
   }
 }
-
 
 class 2_define_and_use_fields_and_methods {
    public static void main(String[] args){
