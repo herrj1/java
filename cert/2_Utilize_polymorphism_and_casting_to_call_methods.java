@@ -3,16 +3,14 @@ class Liquid{
 		System.out.println("Swirling Liquids");
 	}
 }
-
 class Coffee extends Liquid{
 	void swirl(boolean clockwise){
 		System.out.println("Swirling Coffee");
 	}
 }
-
 class Milk extends Liquid{
 	void swirl(boolean clockwise){
-		System.out.println("Swirling Milk");
+		System.out.println("Swirling Milks");
 	}
 }
 
