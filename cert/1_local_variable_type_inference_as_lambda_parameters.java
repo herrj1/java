@@ -9,7 +9,6 @@ public 1_Use_local_variable_type_inference{
 		
 		//
 		// or, the below did not work in Java 10
-		//
 		(var s1, var s2) -> s1 + s2;
 		
 		
