@@ -1,6 +1,6 @@
 class 2_Initialize_objects_and_their_members{	
 	
-	String blah = "ABCD";
+	String blah = "ABCDe";
 	
 	public 2_Initialize_objects_and_their_members(){
 		System.out.println("Public Constructor");
