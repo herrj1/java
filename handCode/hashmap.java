@@ -6,9 +6,13 @@ class Key{
 	
 	Key(String k){
 		this.key = k;
+		
 	}public int hashCode(){
+		
 		int hash = (int)key.charAt(0);
+		
 		System.out.println("Hash key: "+ key +" = "+ hash);
+		
 		return hash;
 	}public boolean equals(Object o){
 		return key.equals(((Key)o).key);
