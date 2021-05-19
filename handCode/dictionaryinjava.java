@@ -2,8 +2,11 @@ class dictionaryinjava{
 
 public void main (String [] args){
     Map<String, Label> map = new HashMap<String, Label>();
+    
     for ( String key : map.keySet() ) {
-       //for singles keys onlys
+    
+        //for singles keys onlys
+    
     }
     for ( Label value : map.values() ) {
        //for singles value
