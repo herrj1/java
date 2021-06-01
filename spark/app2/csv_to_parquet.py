@@ -1,12 +1,15 @@
 import sys
 
 if sys.version >= '3':
+    
     basestring = unicode = str
 
 from py4j.java_gateway import JavaClass
 
 from pyspark import RDD, since
+
 from pyspark import SparkContext
+
 from pyspark.sql import SQLContext
 from pyspark.rdd import ignore_unicode_prefix
 from pyspark.sql.column import _to_seq
