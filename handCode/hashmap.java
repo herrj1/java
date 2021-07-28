@@ -1,7 +1,9 @@
 import java.util.HashMap;
 
 class Key{
+	
 	String key;
+	
 	Key(String k){
 		this.key = k;
 		
