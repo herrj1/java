@@ -1,8 +1,5 @@
-
 import java.util.*;
-
 import java.security.*;
-
 public class IntValueOf {
 
  public static void main(String[] args) {
