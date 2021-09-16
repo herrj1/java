@@ -4,7 +4,9 @@ import java.io.IOException;
 import java.io.StreamTokenizer;
 
 class io{
+	
 	LinkedList<Integer> numList;
+	
 	/** 1st nested method */
 	public io(LinkedList<Integer> numbers){
 		numList = numbers; 
