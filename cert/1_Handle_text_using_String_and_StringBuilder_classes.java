@@ -21,7 +21,7 @@ public 1_Handle_text_using_String_and_StringBuilder_classes{
 		long l4 = Long.toString(45264264,16);
 		String s1 = Integer.toHexString(255).toUpperCase();
 		
-		String text1 = "Now is the time for all good men";
+		String text1 = "Now is the time for good men";
 		String[] w1 = text.split("\\s");
 		
 		String text2 = "52535,      java certification, 100000";
